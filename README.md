@@ -98,7 +98,7 @@
 
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/ejr-arch/ejr-arch/main/dist/github-contribution-grid-snake.svg?cache=1"
+    src="https://raw.githubusercontent.com/ejr-arch/ejr-arch/master/dist/github-contribution-grid-snake.svg?cache=1"
   />
 </p>
 
