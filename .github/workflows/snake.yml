@@ -16,7 +16,7 @@ jobs:
 
       - uses: Platane/snk@v3
         with:
-          github_user_name: kiirecodes
+          github_user_name: ejr-arch
           outputs: |
             dist/github-contribution-grid-snake.svg
 
