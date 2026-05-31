@@ -25,7 +25,7 @@
 
 ### 🧩 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,java,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=c,java,js,html,css,python" />
 </p>
 
 ### 🛠 Tools & Environment
