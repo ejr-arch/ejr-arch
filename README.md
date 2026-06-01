@@ -12,18 +12,18 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-💻 Systems designer and programmer focused on **low-level systems programming & embedded systems** — I write software that balances performance and memory efficiency without major trade-offs  
+ Systems designer and programmer focused on **low-level systems programming & embedded systems** — I write software that balances performance and memory efficiency without major trade-offs  
 🌐 Also a **full-stack web developer** building practical applications with modern web technologies  
 🐧 Open-source enthusiast running **Arch Linux**, editing in **Neovim**, living in the CLI  
-🧠 I believe in understanding the stack from the metal up
+I believe in understanding the stack from the metal up
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
-### 🧩 Languages
+###  Languages
 <p>
   <img src="https://skillicons.dev/icons?i=c,java,js,html,css,python" />
 </p>
@@ -41,7 +41,7 @@
 
 ---
 
-## 🧠 Interests
+##  Interests
 
 ✨ Systems programming  
 ✨ OS & kernel experiments  
@@ -51,7 +51,7 @@
 
 ---
 
-## 🛠 Projects
+##  Projects
 
 ### Student Records System
 **C** — A student records management system using CSV file storage. Handles student data persistence, retrieval, and management from the command line.
@@ -94,7 +94,7 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
+##  Contribution Snake Animation
 
 <p align="center">
   <img 
@@ -104,7 +104,7 @@
 
 ---
 
-## 🤝 Open To
+##  Open To
 
 ✅ Open source  
 ✅ Collaboration  
